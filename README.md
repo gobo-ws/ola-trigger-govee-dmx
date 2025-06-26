@@ -4,7 +4,7 @@
 
 * [OLA](https://www.openlighting.org/ola)
 * Bash shell, socat and bc
-* [Govee device](https://eu.govee.com) (only tested with Govee Smart Outdoor S14 Bulb String Lights 2, H702A). Only succeeded with on/off and brightness using the LAN API. RGB and color temperature were unsuccessful
+* [Govee device](https://eu.govee.com) (only tested with Govee Smart Outdoor S14 Bulb String Lights 2, H702A). Only on/off and brightness control succeeded using the LAN API. RGB and color temperature were unsuccessful
 
 **Installation**
   
