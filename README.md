@@ -8,8 +8,11 @@
 
 **Installation**
   
-* Download the [govee.conf](govee.conf) and [govee.sh](govee.sh) files and configure the Govee hostname or IP address in the shell script
-
+* Download the [govee.conf](govee.conf) and [govee.sh](govee.sh) files and configure the Govee hostname or IP address in the shell script.
+* Make the shell script executable:
+```bash
+chmod +x govee.sh
+```
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
