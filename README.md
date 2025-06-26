@@ -19,3 +19,10 @@
 The config file is provided on the command line:
 
 `ola_trigger govee.conf`
+
+**DMX protocol**  
+
+| Channel | Function | Value Range | Description      |
+|---------|----------|-------------|------------------|
+| 1       | Dimmer   | 0–255       | 0%–100% Brightness |
+
